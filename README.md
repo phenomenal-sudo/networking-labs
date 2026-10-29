@@ -1,4 +1,4 @@
-# Networking Labs
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e361b211-84b5-408d-ae26-6fa49e2f35ad" /># Networking Labs
 
 Hands-on Cisco networking labs built in Packet Tracer while studying for CCNA and a BSc Honours in Network Engineering (University of Zimbabwe).
 
@@ -12,7 +12,7 @@ Each lab folder contains a README (purpose, IP addressing table, credentials, ve
 | [02 Inter-VLAN Routing](02-inter-vlan-routing/) | VLANs, 802.1Q trunking, router-on-a-stick |
 | [03 Inter-VLAN with EtherChannel](03-inter-vlan-etherchannel/) | LACP EtherChannel, trunking, link redundancy |
 
-More labs are being added: EtherChannel, static routing, OSPF, DHCP and wireless.
+More labs are being added: static routing, OSPF, DHCP and wireless.
 
 ## About me
 Russel Chomusina, BSc Honours Network Engineering student at the University of Zimbabwe, Harare
