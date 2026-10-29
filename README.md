@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e361b211-84b5-408d-ae26-6fa49e2f35ad" /># Networking Labs
+# Networking Labs
 
 Hands-on Cisco networking labs built in Packet Tracer while studying for CCNA and a BSc Honours in Network Engineering (University of Zimbabwe).
 
