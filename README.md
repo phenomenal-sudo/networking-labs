@@ -10,6 +10,7 @@ Each lab folder contains a README (purpose, IP addressing table, credentials, ve
 |---|---|
 | [01 Switch Basic Hardening](01-switch-basic-hardening/) | Initial switch configuration, enable secret, console security, SSH, login banner, ping verification |
 | [02 Inter-VLAN Routing](02-inter-vlan-routing/) | VLANs, 802.1Q trunking, router-on-a-stick |
+| [03 Inter-VLAN with EtherChannel](03-inter-vlan-etherchannel/) | LACP EtherChannel, trunking, link redundancy |
 
 More labs are being added: EtherChannel, static routing, OSPF, DHCP and wireless.
 
